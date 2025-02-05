@@ -16,7 +16,7 @@ const client = new Client({
 const rankRoleId = ''; // Role ID
 const keyword = ''; // Tag a avoir dans le pseudo
 
-let streamName = '.gg/gouv-fr';
+let streamName = '';
 let streamURL = 'https://twitch.tv/votre_chaine';
 
 client.once('ready', () => {
