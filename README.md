@@ -9,4 +9,4 @@ Avant de commencer, assurez-vous d'avoir installé les éléments suivants :
 
 ---
  
- Pour tout problème ajoutez moi discord : violeurmentale ou sois pingez moi dans un chat normal en faisant sa : <@1223323670911651862>
+ Pour tout problème ajoutez moi discord : violeurmentale
